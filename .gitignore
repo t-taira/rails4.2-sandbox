@@ -11,4 +11,15 @@
 /log/*
 !/log/.keep
 /tmp
+
+.env
 .idea
+.capistrano
+.DS_Store
+/test
+/public/uploads
+/spec/requests
+/spec/routing
+/config/local/translation_ja.yml
+dragonfly.log
+.DS_Store
